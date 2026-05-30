@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Sopa primigenia",
+    "description": "Nombre del tema."
+  },
+  "extensionDescription": {
+    "message": "Tema oscuro con fondo primordial y pestaña activa bien visible.",
+    "description": "Descripción del tema."
+  },
+  "extensionAuthor": {
+    "message": "Pablo Ventura — pablogventura@gmail.com",
+    "description": "Autor del tema."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "manifest_version": 2,
+  "version": "1.1.2",
+  "default_locale": "es",
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "author": "__MSG_extensionAuthor__",
+  "homepage_url": "mailto:pablogventura@gmail.com",
+  "icons": {
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{a11a33b9-0dab-4518-8266-1baf4592934f}",
+      "strict_min_version": "89.0"
+    }
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "img/background.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat-x"
+      ],
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    },
+    "colors": {
+      "button_background_active": "rgba(72, 64, 96, 0.78)",
+      "button_background_hover": "rgba(58, 52, 80, 0.65)",
+      "bookmark_text": "rgba(255, 255, 255, 0.85)",
+      "frame": "rgba(28, 24, 48, 0.52)",
+      "frame_inactive": "rgba(37, 32, 64, 0.62)",
+      "icons": "rgba(255, 255, 255, 0.85)",
+      "icons_attention": "#9400ff",
+      "ntp_background": "#1c1830",
+      "ntp_card_background": "rgba(72, 64, 96, 0.72)",
+      "ntp_text": "rgba(255, 255, 255, 0.85)",
+      "popup": "rgba(34, 30, 52, 0.88)",
+      "popup_border": "rgba(72, 64, 96, 0.75)",
+      "popup_highlight": "rgba(148, 0, 255, 0.28)",
+      "popup_highlight_text": "#ffffff",
+      "popup_text": "rgba(255, 255, 255, 0.85)",
+      "sidebar": "rgba(34, 30, 52, 0.88)",
+      "sidebar_border": "rgba(72, 64, 96, 0.75)",
+      "sidebar_highlight": "rgba(148, 0, 255, 0.28)",
+      "sidebar_highlight_text": "#ffffff",
+      "sidebar_text": "rgba(255, 255, 255, 0.85)",
+      "tab_background_separator": "rgba(255, 255, 255, 0.10)",
+      "tab_background_text": "#787878",
+      "tab_loading": "#b366ff",
+      "tab_selected": "rgba(72, 64, 96, 0.68)",
+      "tab_text": "#ffffff",
+      "tab_line": "#9400ff",
+      "toolbar": "rgba(40, 34, 58, 0.48)",
+      "toolbar_bottom_separator": "rgba(42, 36, 64, 0.35)",
+      "toolbar_field": "rgba(42, 36, 64, 0.52)",
+      "toolbar_field_border": "transparent",
+      "toolbar_field_border_focus": "#9400ff",
+      "toolbar_field_focus": "rgba(52, 44, 78, 0.65)",
+      "toolbar_field_highlight": "rgba(72, 64, 96, 0.70)",
+      "toolbar_field_highlight_text": "#ffffff",
+      "toolbar_field_separator": "rgba(42, 36, 64, 0.35)",
+      "toolbar_field_text": "rgba(255, 255, 255, 0.85)",
+      "toolbar_field_text_focus": "#ffffff",
+      "toolbar_top_separator": "rgba(40, 34, 58, 0.0)",
+      "toolbar_vertical_separator": "rgba(255, 255, 255, 0.10)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Primordial Soup",
+    "description": "Theme name."
+  },
+  "extensionDescription": {
+    "message": "Dark theme with a primordial background and a clearly visible active tab.",
+    "description": "Theme description."
+  },
+  "extensionAuthor": {
+    "message": "Pablo Ventura — pablogventura@gmail.com",
+    "description": "Theme author."
+  }
+}
