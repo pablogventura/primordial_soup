@@ -1,0 +1,31 @@
+{
+  "source": "img/background.png",
+  "image_size": [
+    1254,
+    200
+  ],
+  "dark": [
+    4,
+    12,
+    28
+  ],
+  "base": [
+    12,
+    20,
+    36
+  ],
+  "light": [
+    30,
+    55,
+    91
+  ],
+  "accent": [
+    42,
+    115,
+    191
+  ],
+  "dark_hex": "#040c1c",
+  "base_hex": "#0c1424",
+  "light_hex": "#1e375b",
+  "accent_hex": "#2a73bf"
+}

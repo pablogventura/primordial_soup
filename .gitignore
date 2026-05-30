@@ -1,3 +1,4 @@
+dist/
 *.xpi
 __MACOSX/
 .DS_Store

@@ -4,7 +4,7 @@
     "description": "Nombre del tema."
   },
   "extensionDescription": {
-    "message": "Tema oscuro con fondo primordial y pestaña activa bien visible.",
+    "message": "Tema oscuro para Firefox con fondo primordial semitransparente, acentos azules y pestaña activa claramente visible. Incluye barra de URL legible, nueva pestaña integrada y esquema oscuro coherente en menús y barra lateral.",
     "description": "Descripción del tema."
   },
   "extensionAuthor": {

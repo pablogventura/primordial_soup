@@ -4,7 +4,7 @@
     "description": "Theme name."
   },
   "extensionDescription": {
-    "message": "Dark theme with a primordial background and a clearly visible active tab.",
+    "message": "Dark Firefox theme with a semi-transparent primordial header background, blue accents, and a clearly visible active tab. Includes a readable URL bar, integrated New Tab page styling, and a consistent dark scheme for menus and the sidebar.",
     "description": "Theme description."
   },
   "extensionAuthor": {
