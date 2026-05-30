@@ -5,7 +5,7 @@
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
   "author": "__MSG_extensionAuthor__",
-  "homepage_url": "mailto:pablogventura@gmail.com",
+  "homepage_url": "https://github.com/pablogventura/primordial_soup",
   "icons": {
     "32": "icons/icon-32.png",
     "48": "icons/icon-48.png",

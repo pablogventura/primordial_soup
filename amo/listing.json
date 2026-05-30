@@ -3,6 +3,8 @@
   "name_es": "Sopa primigenia",
   "license": "GPL-3.0-or-later",
   "category": "Abstract",
+  "homepage": "https://github.com/pablogventura/primordial_soup",
+  "support_email": "pablogventura@gmail.com",
   "screenshots": [
     "amo/screenshots/preview-1-header.png",
     "amo/screenshots/preview-2-overview.png"
